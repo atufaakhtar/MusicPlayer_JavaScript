@@ -47,8 +47,8 @@ Responsive-Music-Website/
 │   └── style.css     # Stylesheet
 ├── js/
 │   └── script.js     # JavaScript file for interactivity
-├── images/           # Folder for images
-└── audio/            # Folder for audio files 
+├── assets/
+    └── images/       # Folder for images
 ```
 
 ## Contributing
